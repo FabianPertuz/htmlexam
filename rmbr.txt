@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    height: auto;
+}
+header{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    
+
+}
+body{
+    display: flex;
+    align-items: end;
+    border: solid;
+    justify-content: space-between;
+
+}
+:root{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

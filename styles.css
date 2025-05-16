@@ -1,6 +1,33 @@
-.header{row-gap: 10px;
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    height: auto;
+}
+.links{
+    align-items: start;
+    justify-content: left;
 
 }
-.sertitle{column-gap: normal;
 
+.acme{
+    height: 70px;
+    width: 70px;
+    align-items: start;
+    justify-content: start;
+    
 }
+.foto3{
+    height: 40px;
+    width: 40px;
+}
+.map{
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+}
+
+
