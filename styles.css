@@ -6,17 +6,22 @@
     width: auto;
     height: auto;
 }
-.links{
-    align-items: start;
-    justify-content: left;
+
+.sertitle{
+    display: flex;
 
 }
-
+.bodycon{
+    display: flex;
+    columns: ;
+    align-items: start;
+    justify-content: ;
+}
 .acme{
     height: 70px;
     width: 70px;
     align-items: start;
-    justify-content: start;
+    justify-content: left;
     
 }
 .foto3{
@@ -28,6 +33,13 @@
     justify-content: center;
     height: 300px;
     width: 300px;
+    margin: 10px;
+    padding: 10px;
 }
+.links{
+    display: flex;
+    align-items: start;
+    justify-content: start;
 
+}
 
